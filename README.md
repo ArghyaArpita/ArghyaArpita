@@ -17,6 +17,6 @@
 - Data Structures & Algorithms (DSA), Web Development, and System Design
 
 ### 📫 Let's Connect!  
-💼 [LinkedIn](#Arghya Arpita Mohanty) | 📩 [Email](mohantyarghyaarpita@gmail.com)  
+💼 [LinkedIn](Arghya Arpita Mohanty) | 📩 [Email](mohantyarghyaarpita)  
 
 ⚡ **Fun Fact:** I love tackling challenging mathematical problems and optimizing code for efficiency!  
